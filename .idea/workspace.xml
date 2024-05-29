@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="158ec517-d9ea-4740-8df3-932ed5fb17d8" name="更改" comment="set集合包">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file://$USER_HOME$/go/go1.20.12" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="SOFT" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/go/pkg/mod/go.uber.org/zap@v1.26.0/sugar.go" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2a1BDSOVPxA4YYccl20Is4C8DvP" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
+    &quot;Go 测试.TestNewAuthorizer in github.com/pouringrain0628/fool/pkg/rbac/casbin.executor&quot;: &quot;Debug&quot;,
+    &quot;Go 测试.TestNewAuthorizer/createAuthorizer in github.com/pouringrain0628/fool/pkg/rbac/casbin.executor&quot;: &quot;Debug&quot;,
+    &quot;Go 测试.Test_authorizer_ActionGetter in github.com/pouringrain0628/fool/pkg/rbac/casbin.executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.Test_authorizer_Authorize in github.com/pouringrain0628/fool/pkg/rbac/casbin.executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.Test_authorizer_Authorize/InheritedPermissionSuccess in github.com/pouringrain0628/fool/pkg/rbac/casbin.executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.Test_authorizer_Authorize/authorizeSuccess in github.com/pouringrain0628/fool/pkg/rbac/casbin.executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.Test_authorizer_Authorize/noneRequiredRole in github.com/pouringrain0628/fool/pkg/rbac/casbin.executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.Test_authorizer_ResourceGetter in github.com/pouringrain0628/fool/pkg/rbac/casbin.executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.Test_authorizer_UserGetter in github.com/pouringrain0628/fool/pkg/rbac/casbin.executor&quot;: &quot;Run&quot;,
+    &quot;Go 测试.go test github.com/pouringrain0628/fool/pkg/rbac/casbin.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/daihaoran&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;go.sdk&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pkg" />
+      <recent name="$PROJECT_DIR$/proto" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pkg/rbac/casbin" />
+      <recent name="$PROJECT_DIR$/pkg/rbac" />
+      <recent name="$PROJECT_DIR$/pkg/authz" />
+      <recent name="$PROJECT_DIR$/pkg/errors" />
+      <recent name="$PROJECT_DIR$/pkg" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go 测试.go test github.com/pouringrain0628/fool/pkg/rbac/casbin">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="fool" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestNewAuthorizer in github.com/pouringrain0628/fool/pkg/rbac/casbin" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="fool" />
+      <working_directory value="$PROJECT_DIR$/pkg/rbac/casbin" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="github.com/pouringrain0628/fool/pkg/rbac/casbin" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestNewAuthorizer\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test_authorizer_Authorize in github.com/pouringrain0628/fool/pkg/rbac/casbin" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="fool" />
+      <working_directory value="$PROJECT_DIR$/pkg/rbac/casbin" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="github.com/pouringrain0628/fool/pkg/rbac/casbin" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTest_authorizer_Authorize\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test_authorizer_Authorize/InheritedPermissionSuccess in github.com/pouringrain0628/fool/pkg/rbac/casbin" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="fool" />
+      <working_directory value="$PROJECT_DIR$/pkg/rbac/casbin" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="github.com/pouringrain0628/fool/pkg/rbac/casbin" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTest_authorizer_Authorize\E$/^\QInheritedPermissionSuccess\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test_authorizer_Authorize/noneRequiredRole in github.com/pouringrain0628/fool/pkg/rbac/casbin" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="fool" />
+      <working_directory value="$PROJECT_DIR$/pkg/rbac/casbin" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="github.com/pouringrain0628/fool/pkg/rbac/casbin" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTest_authorizer_Authorize\E$/^\QnoneRequiredRole\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="fool" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test github.com/pouringrain0628/fool/pkg/rbac/casbin" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="fool" />
+      <working_directory value="$PROJECT_DIR$/pkg/rbac/casbin" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="github.com/pouringrain0628/fool/pkg/rbac/casbin" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go 测试.go test github.com/pouringrain0628/fool/pkg/rbac/casbin" />
+        <item itemvalue="Go 测试.TestNewAuthorizer in github.com/pouringrain0628/fool/pkg/rbac/casbin" />
+        <item itemvalue="Go 测试.Test_authorizer_Authorize/InheritedPermissionSuccess in github.com/pouringrain0628/fool/pkg/rbac/casbin" />
+        <item itemvalue="Go 测试.Test_authorizer_Authorize/noneRequiredRole in github.com/pouringrain0628/fool/pkg/rbac/casbin" />
+        <item itemvalue="Go 测试.Test_authorizer_Authorize in github.com/pouringrain0628/fool/pkg/rbac/casbin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-gosdk-33c477a475b1-e0158606a674-org.jetbrains.plugins.go.sharedIndexes.bundled-GO-241.15989.157" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-GO-241.15989.157" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="rbac" />
+    <MESSAGE value="set集合包" />
+    <option name="LAST_COMMIT_MESSAGE" value="set集合包" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/pkg/rbac/casbin/authz_test.go</url>
+          <line>70</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
